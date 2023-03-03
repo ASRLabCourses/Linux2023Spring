@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first text
+=======
+first test
+>>>>>>> 45c3c8ca344e75f362e80baf4a569beabc87a5ef
